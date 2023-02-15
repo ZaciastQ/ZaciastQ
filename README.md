@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZaciastQ
-- 👀 I’m interested in network projects / website projects .
-- 🌱 I’m currently learning C/C++/hmtl/css
+- 👀 I’m interested in network projects / website projects / CCNA / CyberSecurity/ Python 3.
+- 🌱 I’m currently learning C/C++/Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ZaciastQ/ZaciastQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
